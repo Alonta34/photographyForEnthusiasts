@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+header{
+    margin: 0;
+}
+
+.site-title{
+    margin-top: 15px;
+    background-color: rgb(165, 116, 42);
+    padding-bottom: 10px;
+    font-family: Quicksand, sans-serif;
+    text-align: center;
+    font-weight: 600;    
+}
