@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
 
 header{
     margin: 0;
@@ -24,4 +26,43 @@ body{
     list-style-type: none;
     margin-left: 25px;
     font-size: larger;
+    
+    
 }
+
+.nav-item{
+    color: black;
+}
+
+.home-title{
+    height: 120px;
+    width: 30%;
+    float: center;
+    font-family: Courgette,sans-serif;
+    padding-top: 60px;
+    margin: 0 auto;
+    
+}
+
+.title{
+  margin-left: 30%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.photo-gallery{
+    height: 200px;
+    width: 50%;
+    background-color: aquamarine;
+    
+}
+
+.main-photo{
+    height: 450px;
+    margin: 0 auto;
+}
+
+
+
+
+
