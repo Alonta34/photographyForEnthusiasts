@@ -10,15 +10,15 @@ body{
     font-family: Quicksand, sans-serif;
 }
 
+
 .logo{
     padding-top: 15px;
     padding-bottom: 15px;
     color: black;
     background-color: rgb(165, 116, 42);
-    padding-bottom: 10px;
-    text-align: center;
     font-weight: 500;  
     text-transform: uppercase;
+    text-align: center;
 }
 
 #menu li{
@@ -44,23 +44,38 @@ body{
     
 }
 
+
+
 .title{
   margin-left: 30%;
   text-align: center;
   text-transform: uppercase;
+  
 }
 
-.photo-gallery{
-    height: 200px;
-    width: 50%;
-    background-color: aquamarine;
+
     
+.mini-gallery{
+    clear: both;
+    margin-top: 50px;
+    column-count: 3;
 }
 
-.main-photo{
-    height: 450px;
-    margin: 0 auto;
+.photo1{
+    height: 120%;
+    width: 120%;
 }
+
+.photo4{
+    height: 120%;
+    width: 100%;
+}
+
+.photo7{
+    height: 120%;
+    width: 110%;
+}
+
 
 
 
