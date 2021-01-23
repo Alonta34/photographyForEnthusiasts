@@ -19,6 +19,12 @@ body{
     font-weight: 500;  
     text-transform: uppercase;
     text-align: center;
+    letter-spacing: 4px;
+    
+}
+
+.logoitem a{
+    text-decoration: none;
 }
 
 #menu li{
