@@ -11,6 +11,8 @@ body{
 }
 
 
+
+
 .logo{
     padding-top: 15px;
     padding-bottom: 15px;
@@ -66,6 +68,9 @@ body{
     clear: both;
     margin-top: 50px;
     column-count: 3;
+    column-gap: 0px;
+    line-height: 0;
+    
 }
 
 .photo1{
@@ -82,6 +87,73 @@ body{
     height: 120%;
     width: 110%;
 }
+
+.photo8{
+    height: 120%;
+    width: 110%;
+}
+
+.photo17{
+    height: 180%;
+    width: 100%;
+}
+
+.photo25{
+    height: 100%;
+    width: 120%;
+}
+
+
+.socialmedia-links{
+    background-color: aqua;
+}
+
+
+/*------------Footer----------*/
+
+.footer{
+    font-family: Courgette, sans-serif;
+    font-size: x-large;
+    background-color:black;
+    color:  rgb(165, 116, 42);
+    
+
+}
+
+.footer-sites{
+    padding-right: 40px;
+    padding-left: 20px;
+    margin-top: 20px;
+    color: rgb(165, 116, 42);
+   
+}
+
+.footer-socials{
+    margin-top: 25px;
+    margin-right: 18px;
+    color:  rgb(165, 116, 42);
+   
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-sites a{
+    color: rgb(165, 116, 42);
+    list-style-type: none;
+}
+
+.footer-socials a{
+    color: rgb(165, 116, 42);
+    list-style-type: none;
+}
+
+
 
 
 
