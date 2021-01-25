@@ -52,6 +52,11 @@ body{
     
 }
 
+#menu a{
+    list-style-type: none;
+    text-decoration: none;
+}
+
 
 
 .title{
@@ -93,9 +98,17 @@ body{
     width: 110%;
 }
 
+.photo9 {
+    width: 100%;
+}
+
 .photo17{
     height: 180%;
     width: 100%;
+}
+
+img.photo20 {
+    width: 121%;
 }
 
 .photo25{
