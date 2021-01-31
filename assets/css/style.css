@@ -33,6 +33,10 @@ body{
     text-decoration: none;
 }
 
+.navigation{
+    margin-top: 25px;
+}
+
 #menu li{
     float: left;
     list-style-type: none;
@@ -50,7 +54,6 @@ body{
     height: 120px;
     width: 30%;
     float: center;
-    font-family: Chewy,sans-serif;
     padding-top: 60px;
     margin: 0 auto;
     
@@ -183,7 +186,40 @@ img.photo20 {
     max-height: 150%;
     max-width: 100%;
     
+    
 }
+
+.supply-section{
+    margin-top: 40px;
+}
+
+.supply-heading{
+    text-align: center;
+}
+
+.cameras{
+    margin: 0 auto;
+}
+
+.computers{
+    margin: 0 auto;
+}
+
+.accessories{
+    margin: 0 auto;
+}
+
+.equipment{
+    margin: 0 auto;
+}
+
+#map{
+    min-height: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
 
 
 
