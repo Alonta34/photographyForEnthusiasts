@@ -2,13 +2,25 @@
 
 You just got your first camera and not sure what to get for it. Or maybe you dont even have a camera but you're
 into photography. Well that's what this project is for. The inspiration for this project stems from my interest in photography
-and how I wasnt quite sure where to start. The goal for this project is to inspire amatures and veterans alike, to provide a 
-simple list of photography products, and to provide shooting locations.
+and how I wasnt quite sure where to start. The goal for this project is to inspire amatures and beginners alike, to provide a 
+simple list of photography products, and to provide shooting locations. There will be 4 pages to this site, the home page which will consist of 
+a moderate photo gallery, a supplies page for all of the available items,the locations page to see different shooting spots, and the cart page 
+where the user should be able to view their selected products.
+
 
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how 
+your project is the best way to help them achieve these things.
+
+This photography based website is for those who are just starting out in the craft as well more experienced amatures. 
+The main purpose of this website is to provide inspiration to new and returning users as well as providing a simple 
+means for which the user can view and or purchase cameras and camera gear should they wish. To achieve these goals, the wedsite
+is broken down into 4 pages which can easily be distinguished via the tabs at the top of the page which will lead the users to
+the respective areas of the site upon clicking them. These pages include a gallery, a map, and supplies page to showcase different 
+equipment to choose from.  
+
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.
