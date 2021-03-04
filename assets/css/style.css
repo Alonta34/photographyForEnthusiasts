@@ -218,6 +218,51 @@ img.photo20 {
     
 }
 
+/*------------Cart----------*/
+
+.product-container{
+    max-width: 650px;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.product-header{
+    width: 100%;
+    max-width: 650px;
+    display: flex;
+    border-bottom: 5px solid rgb(165, 116, 42);
+    margin: 0 auto;
+}
+
+.product-label{
+    width: 40%;
+}
+
+.price{
+    width: 15%;
+    display: flex;
+    align-items: center;
+}
+
+.number{
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.total{
+    width: 415;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
 
 
 
