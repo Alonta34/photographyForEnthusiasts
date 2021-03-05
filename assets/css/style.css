@@ -66,6 +66,10 @@ body{
     text-decoration: none;
 }
 
+.item-count{
+    padding-left: 5px;
+}
+
 
 
 .title{
@@ -227,10 +231,18 @@ img.photo20 {
     margin-top: 50px;
 }
 
+.products{
+    width: 100%;
+    max-width: 650px;
+    border-bottom: 10px solid rgb(165, 116, 42);  
+}
+
+
 .product-header{
     width: 100%;
     max-width: 650px;
     display: flex;
+    justify-content: flex-start;
     border-bottom: 5px solid rgb(165, 116, 42);
     margin: 0 auto;
 }
@@ -252,10 +264,41 @@ img.photo20 {
 }
 
 .total{
-    width: 415;
+    width: 10%;
     display: flex;
     align-items: center;
 }
+
+.product{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.names{
+    width: 80%;
+    padding-right: 50px;
+}
+
+.prices{
+    width: 85%;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.numbers{
+    text-align: center;
+    width: 100%;
+}
+
+.item-total{
+    width: 90%;
+    text-align: center;
+    padding-left: 25px;
+}
+
 
 
 
