@@ -41,7 +41,7 @@ body{
 #menu li{
     float: left;
     list-style-type: none;
-    margin-left: 25px;
+    
     margin-right: 20px;
     font-size: larger;
     
@@ -54,9 +54,10 @@ body{
 
 .home-title{
     height: 120px;
-    width: 30%;
+    width: 100%;
     padding-top: 60px;
-    margin-left: 30%;
+    display: flex;
+    
     
     
 }
@@ -73,9 +74,11 @@ body{
 
 
 .title{
-  margin-left: 30%;
+  margin-left: 4%;
   text-align: center;
   text-transform: uppercase;
+  width: 100%;
+  font-size: xxx-large;
   
 }
 
@@ -253,17 +256,17 @@ img.photo20 {
 }
 
 .product-label{
-    width: 40%;
+    width: 30%;
 }
 
 .price{
-    width: 15%;
+    width: 28%;
     display: flex;
     align-items: center;
 }
 
 .number{
-    width: 30%;
+    width: 28%;
     display: flex;
     align-items: center;
 }
@@ -283,25 +286,26 @@ img.photo20 {
 }
 
 .names{
-    width: 80%;
-    padding-right: 50px;
+    width: 100%;
+    padding-right: 40px;
 }
 
 .prices{
-    width: 85%;
-    text-align: right;
-    padding-right: 5px;
+    width: 100%;
+    text-align: left;
+    padding-right: 10px;
 }
 
 .numbers{
-    text-align: center;
-    width: 100%;
+    text-align: left;
+    width: 90%;
+    margin-left: 10%;
 }
 
 .item-total{
-    width: 90%;
-    text-align: center;
-    padding-left: 25px;
+    width: 70%;
+    text-align: left;
+    
 }
 
 .cart-total-section{
