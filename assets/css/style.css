@@ -79,6 +79,11 @@ body{
   
 }
 
+.fas {
+    font-weight: 900;
+    padding-right: 5px;
+}
+
 
 /*------------Gallery and photos----------*/
     
@@ -234,7 +239,7 @@ img.photo20 {
 .products{
     width: 100%;
     max-width: 650px;
-    border-bottom: 10px solid rgb(165, 116, 42);  
+    border-bottom: 5px solid rgb(165, 116, 42);  
 }
 
 
@@ -297,6 +302,21 @@ img.photo20 {
     width: 90%;
     text-align: center;
     padding-left: 25px;
+}
+
+.cart-total-section{
+    display: flex;
+    border-top: 2px solid rgb(165, 116, 42);
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.cart-total-title{
+    width: 13%;
+}
+
+.cart-total{
+    width: 20%;
 }
 
 
