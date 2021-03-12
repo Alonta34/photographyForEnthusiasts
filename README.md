@@ -1,6 +1,6 @@
 # Photography For Enthusiasts
 
-You just got your first camera and not sure what to get for it. Or maybe you dont even have a camera but you're
+You just got your first camera and you're not sure what to get for it. Or maybe you dont even have a camera but you're
 into photography. Well that's what this project is for. The inspiration for this project stems from my interest in photography
 and how I wasnt quite sure where to start. The goal for this project is to inspire amatures and beginners alike, to provide a 
 simple list of photography products, and to provide shooting locations. There will be 4 pages to this site, the home page which will consist of 

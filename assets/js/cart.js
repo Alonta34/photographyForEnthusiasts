@@ -141,6 +141,7 @@ function totalCost(product) {
 
 }
 
+
 function displayCart(){
     let cartItems = localStorage.getItem("productsInCart");
     cartItems = JSON.parse(cartItems);
@@ -169,13 +170,19 @@ function displayCart(){
                 <h6 class= "cart-total">
                     $${cartCost}.00
                 </h6>
-                <button type="button" class="btn btn-secondary">Check Out</button>
+                <button onclick= "checkOut()" type="button" class="btn btn-secondary">Check Out</button>
             </div>
         `
-        
     }
     
 }
+
+function checkOut(){
+    alert("Checkout complete!")
+}
+    
+
+
 
 
 onLoadCartNumbers();
