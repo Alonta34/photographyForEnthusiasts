@@ -21,29 +21,26 @@ the respective areas of the site upon clicking them. These pages include a galle
 equipment to choose from.  
 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a new user, I want to be able to easily navigate the website's gallery and map section
 - As a new user, I want to be able to click on the footer links and they take me to their designated sites
 - As a general user, I want to be able to zoom in and out on locations on the map
 - As a general or new user, I want the 'add to cart' links to add items to the cart
 - As a general user, I want my cart item count to be seen on the site
 
-![homepage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/home-page.png)
-![suppliespage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/supplies-page.png)
-![mappage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/map-page.png)
-![cartpage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/cart-page.png)
+![homepage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/home-page.png)
+![suppliespage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/supplies-page.png)
+![mappage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/map-page.png)
+![cartpage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/cart-page.png)
 
 
 
 ## wireframes
-![wireframe homepage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/wireframe-home-page.png)
-![wireframe suppliespage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/wireframe-supplies-page.png)
-![wireframe mappage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/wireframe-map-page.png)
+![wireframe homepage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/wireframe-home-page.png)
+![wireframe suppliespage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/wireframe-supplies-page.png)
+![wireframe mappage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/wireframe-map-page.png)
 
 
 
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
 
@@ -62,9 +59,28 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
 - [JQuery](https://jquery.com)
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [Javascript](https://jquery.com)
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [HTML5]
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [CSS]
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [Bootstrap](https://jquery.com)
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [Lucidchart](https://jquery.com)
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [GoogleFonts](https://jquery.com)
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- [FontAwesome](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
 
