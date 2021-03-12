@@ -14,7 +14,6 @@ where the user should be able to view their selected products.
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how 
 your project is the best way to help them achieve these things.
 
-This photography based website is for those who are just starting out in the craft as well more experienced amatures. 
 The main purpose of this website is to provide inspiration to new and returning users as well as providing a simple 
 means for which the user can view and or purchase cameras and camera gear should they wish. To achieve these goals, the wedsite
 is broken down into 4 pages which can easily be distinguished via the tabs at the top of the page which will lead the users to
@@ -23,7 +22,26 @@ equipment to choose from.
 
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+- As a new user, I want to be able to easily navigate the website's gallery and map section
+- As a new user, I want to be able to click on the footer links and they take me to their designated sites
+- As a general user, I want to be able to zoom in and out on locations on the map
+- As a general or new user, I want the 'add to cart' links to add items to the cart
+- As a general user, I want my cart item count to be seen on the site
+
+![homepage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/home-page.png)
+![suppliespage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/supplies-page.png)
+![mappage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/map-page.png)
+![cartpage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/cart-page.png)
+
+
+
+## wireframes
+![wireframe homepage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/wireframe-home-page.png)
+![wireframe suppliespage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/wireframe-supplies-page.png)
+![wireframe mappage image](https://raw.github.com/Alonta34/photographyForEnthusiasts/master/assets/images/wireframe-map-page.png)
+
+
+
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
