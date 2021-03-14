@@ -60,28 +60,28 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Technologies Used
 
 - [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - The project uses JQuery to simplify DOM manipulation.
 
 - [Javascript](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - This project uses Javascript to to render the map and locations on the site as well provide functionality for the cart system.
 
 - [HTML5]
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - HTML5 was used to create the structure of the website.
 
 - [CSS]
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - CSS was used for the styling of the project.
 
 - [Bootstrap](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - Bootstrap was used to easily create and manage page sections on the website.
 
 - [Lucidchart](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - Lucid chart was used to create the wire frame template for the project.
 
 - [GoogleFonts](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - Google Fonts was used to provide any text font used in the project.
 
 - [FontAwesome](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+    - All icons on the website were taken from and provided by Font Awesome.
 
 
 ## Testing
