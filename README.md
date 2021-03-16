@@ -26,11 +26,12 @@ equipment to choose from.
 - As a general user, I want to be able to zoom in and out on locations on the map
 - As a general or new user, I want the 'add to cart' links to add items to the cart
 - As a general user, I want my cart item count to be seen on the site
+- As a general user, I want the check out button to complete my purchase
 
 ![homepage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/home-page.png)
 ![suppliespage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/supplies-page.png)
 ![mappage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/map-page.png)
-![cartpage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/cart-page.png)
+![cartpage image](https://github.com/Alonta34/photographyForEnthusiasts/blob/master/assets/Images/cart-page.png)
 
 
 
