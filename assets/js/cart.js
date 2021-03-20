@@ -183,8 +183,13 @@ function checkOut(){
     let cartItems = document.getElementsByClassName("products")[0]
     while (cartItems.hasChildNodes()){
         cartItems.removeChild(cartItems.firstChild)
+        localStorage.removeItem("productsInCart")
+        localStorage.removeItem("cartNumbers")
+        localStorage.removeItem("totalCost")
     }
 }
+
+
     
 
 
