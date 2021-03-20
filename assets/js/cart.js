@@ -157,11 +157,8 @@ function displayCart(){
                 <span class="prices">$${item.price}.00</span> 
                 <span class= "numbers">${item.incart}</span> 
                 <span class= "item-total">$${item.incart * item.price}.00</span>
-                
             </div>
-            <div><span><button type="button" class="btn btn-danger btn-sm">Remove</button>
-            </span></div>
-
+            
         
             `;
         });
@@ -183,6 +180,10 @@ function displayCart(){
 
 function checkOut(){
     alert("Checkout complete!")
+    let cartItems = document.getElementsByClassName("products")[0]
+    while (cartItems.hasChildNodes()){
+        cartItems.removeChild(cartItems.firstChild)
+    }
 }
     
 
