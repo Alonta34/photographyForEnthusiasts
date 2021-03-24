@@ -28,17 +28,17 @@ equipment to choose from.
 - As a general user, I want my cart item count to be seen on the site
 - As a general user, I want the check out button to complete my purchase
 
-![homepage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/home-page.png)
-![suppliespage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/supplies-page.png)
-![mappage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/map-page.png)
-![cartpage image](https://github.com/Alonta34/photographyForEnthusiasts/blob/master/assets/Images/cart-page.png)
+![homepage image](https://github.com/Alonta34/photographyForEnthusiasts/raw/master/assets/Images/cart-page.png)
+![suppliespage image](https://browser-a9c019cc-743c-4fd6-b19f-564fe2241f9a.ws-us03.gitpod.io/workspace/photographyForEthusiasts/assets/Images/supplies-page.png)
+![mappage image](https://browser-a9c019cc-743c-4fd6-b19f-564fe2241f9a.ws-us03.gitpod.io/workspace/photographyForEthusiasts/assets/Images/map-page.png)
+![cartpage image](https://browser-a9c019cc-743c-4fd6-b19f-564fe2241f9a.ws-us03.gitpod.io/workspace/photographyForEthusiasts/assets/Images/cart-page.png)
 
 
 
 ## wireframes
-![wireframe homepage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/wireframe-home-page.png)
-![wireframe suppliespage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/wireframe-supplies-page.png)
-![wireframe mappage image](https://raw.github.com/Alonta34/photographyForEthusiasts/master/assets/images/wireframe-map-page.png)
+![wireframe homepage image](https://browser-a9c019cc-743c-4fd6-b19f-564fe2241f9a.ws-us03.gitpod.io/workspace/photographyForEthusiasts/assets/Images/wireframe-home-page.png)
+![wireframe suppliespage image](https://browser-a9c019cc-743c-4fd6-b19f-564fe2241f9a.ws-us03.gitpod.io/workspace/photographyForEthusiasts/assets/Images/wireframe-supplies-page.png)
+![wireframe mappage image](https://browser-a9c019cc-743c-4fd6-b19f-564fe2241f9a.ws-us03.gitpod.io/workspace/photographyForEthusiasts/assets/Images/wireframe-map-page.png)
 
 
 

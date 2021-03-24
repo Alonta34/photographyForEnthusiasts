@@ -272,7 +272,7 @@ img.photo20 {
 }
 
 .total{
-    width: 10%;
+    width: 16%;
     display: flex;
     align-items: center;
 }
@@ -300,6 +300,10 @@ img.photo20 {
     text-align: left;
     width: 90%;
     margin-left: 10%;
+}
+
+.remove{
+    display: flex;
 }
 
 .item-total{
