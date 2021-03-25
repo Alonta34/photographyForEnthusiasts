@@ -20,7 +20,7 @@ is broken down into 4 pages which can easily be distinguished via the tabs at th
 the respective areas of the site upon clicking them. These pages include a gallery, a map, and supplies page to showcase different 
 equipment to choose from.  
 
-
+### User Stories
 - As a new user, I want to be able to easily navigate the website's gallery and map section
 - As a new user, I want to be able to click on the footer links and they take me to their designated sites
 - As a general user, I want to be able to zoom in and out on locations on the map
@@ -35,7 +35,11 @@ equipment to choose from.
 
 
 
-## wireframes
+## Wireframes
+
+There were originally three wireframes but during the development process the addition of a cart page with a 
+simple checkout system was discussed between myself and my peer mentor, Arnold Kyeza.
+
 ![wireframe homepage image](https://github.com/Alonta34/photographyForEnthusiasts/raw/master/assets/Images/wireframe-home-page.png)
 ![wireframe suppliespage image](https://github.com/Alonta34/photographyForEnthusiasts/raw/master/assets/Images/wireframe-supplies-page.png)
 ![wireframe mappage image](https://github.com/Alonta34/photographyForEnthusiasts/raw/master/assets/Images/wireframe-map-page.png)
@@ -49,11 +53,14 @@ In this section, you should go over the different parts of your project, and des
  
 ### Existing Features
 
-- The Home Page - allows users X to achieve Y, by having them fill out Z
-- The Supplies Page -
-- The Locations Page -
-- The Supply Links -
-- The Map Points -
+- The Home Page - Allows the user to browse through a selection of pictures via a gallery
+- The Supplies Page - Allows users to browse and click through a selection of products to purchase
+- The Locations Page - Allows users to browse through relevant shooting locations via a map rendering
+- The Supply Links - Allows users to click the product they want and add it to the cart
+- The Map Points - Allows users to see the exact points of interest on the map
+- The Checkout Button - Allows the user to complete their checkout purchase
+- The Footer Links - Allows the user to go to selected social media and photography based sites
+- The Navigation Links - Aloows the user to easily navigate the different pages of the site
 
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
@@ -123,13 +130,23 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+- The credit for most of the cart page belongs to series of YouTube videos and my peer mentor, Arnold Kyeza
+    because I defenitely had a bit of trouble starting off. Here are the links to the videos that helped 
+    with the cart development process: 
+    [YouTube: Telmo Sampio](https://www.youtube.com/watch?v=B20Getj_Zk4&list=PLD9SRxG6ST3HignjcXUX6w8RcT0_b5ihV)
+    
+    [YouTube: Web Dev Simplified](https://www.youtube.com/watch?v=YeFzkC2awTM)
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used for this project were obtained from 
+    [Unsplash website](https://unsplash.com/) and [Pexels website](https://www.pexels.com/)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for certain parts of the project (specifically the map) from the code institue mini
+  project as well as from my peer mentor Arnold Kyeza. There was also aid i received from
+  research that involved using coding strategies that i found on YouTube. The credits can
+  be found in the above 'Credits Section'
