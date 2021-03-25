@@ -105,7 +105,21 @@ Whenever it is feasible, prefer to automate your tests, and if you've done so, p
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
+Testing was done manually by myself via different devices to ensure that all features worked adequately across all platforms
+
+1. Navigation:
+    1. Opened browser to make sure the site on the browser
+    2. Clicked each navigation tab to ensure they sent the user to the respective destination
+    3. Opened browser on other mobile devices to ensure that the site worked properly on devices outside of a laptop
+    4. Repeated the process of clicking each navigation tab to be sure that they worked on mobile devices as well
+
+2. Supplies Page:
+    1. Go to the "Contact Us" page
+    2. Try to submit the empty form and verify that an error message about the required fields appears
+    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
+    4. Try to submit the form with all inputs valid and verify that a success message appears.
+
+3. Cart/Checkout:
     1. Go to the "Contact Us" page
     2. Try to submit the empty form and verify that an error message about the required fields appears
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
@@ -136,6 +150,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The credit for most of the cart page belongs to series of YouTube videos and my peer mentor, Arnold Kyeza
     because I defenitely had a bit of trouble starting off. Here are the links to the videos that helped 
     with the cart development process: 
+
     [YouTube: Telmo Sampio](https://www.youtube.com/watch?v=B20Getj_Zk4&list=PLD9SRxG6ST3HignjcXUX6w8RcT0_b5ihV)
     
     [YouTube: Web Dev Simplified](https://www.youtube.com/watch?v=YeFzkC2awTM)
