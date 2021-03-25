@@ -128,6 +128,9 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
+## Validation
+- Files were validated by directly inputing them into the validator using (https://www.w3.org/)
+
 
 ## Credits
 - The credit for most of the cart page belongs to series of YouTube videos and my peer mentor, Arnold Kyeza
