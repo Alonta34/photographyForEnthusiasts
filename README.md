@@ -38,7 +38,11 @@ equipment to choose from.
 ## Wireframes
 
 There were originally three wireframes but during the development process the addition of a cart page with a 
-simple checkout system was discussed between myself and my peer mentor, Arnold Kyeza.
+simple checkout system was discussed between myself and my peer mentor, Arnold Kyeza. 
+
+The Location page was also changed from what is seen in the wire frame from a series of pictures to a full
+map rendering to showcase the different locations.
+
 
 ![wireframe homepage image](https://github.com/Alonta34/photographyForEnthusiasts/raw/master/assets/Images/wireframe-home-page.png)
 ![wireframe suppliespage image](https://github.com/Alonta34/photographyForEnthusiasts/raw/master/assets/Images/wireframe-supplies-page.png)
@@ -48,8 +52,6 @@ simple checkout system was discussed between myself and my peer mentor, Arnold K
 
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
 
@@ -96,16 +98,14 @@ In addition, you may also use this section to discuss plans for additional featu
 - [FontAwesome](https://jquery.com)
     - All icons on the website were taken from and provided by Font Awesome.
 
+- [Google Maps API](https://console.cloud.google.com/apis/credentials?project=positive-shell-299821&supportedpurview=project)
+    - The map rendering on the locations page was provided by using the features from the Google Cloud API system.
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Testing was done manually by myself via different devices to ensure that all features worked adequately across all platforms
+Testing was done manually by myself via different devices to ensure that all features worked adequately across all platforms.
+Project is designed to hold all the same qualities on mobile devices as it does on a full webpage, so everything works the exact
+same across all devices.
 
 1. Navigation:
     1. Opened browser to make sure the site on the browser
@@ -114,22 +114,22 @@ Testing was done manually by myself via different devices to ensure that all fea
     4. Repeated the process of clicking each navigation tab to be sure that they worked on mobile devices as well
 
 2. Supplies Page:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+    1. Go to the "Supplies" page
+    2. Click on desired products to make sure it is added to the cart
+    3. Look at the cart tab to confirm that desired products were added to the cart
+    4. Click on the cart tab to confirm that desired products were added to the cart
 
 3. Cart/Checkout:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+    1. Go to the "Cart" page
+    2. Check to see that all desired products are in the cart
+    3. Click the checkout button to check that alert pops up
+    4. Click the 'ok' tab to make sure that purchase is completed and cart is cleared of all previous products
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+4. Footer Links:
+    1. Scroll down to the footer section of the site
+    2. Click on each link to make sure that they send user to the desired site
+    3. Return to main site to ensure that the site is still up and running
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
