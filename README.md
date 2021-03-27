@@ -131,6 +131,20 @@ same across all devices.
     3. Return to main site to ensure that the site is still up and running
 
 
+
+    ## Devices Used
+
+    1. iPhone XR
+    2. Macbook Air
+    3. iPhone 7
+    4. iPhone 11
+    5. iPhone 7 
+    6. LG Stylus 5
+    7. iPad
+    8. iPad Pro
+
+
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
