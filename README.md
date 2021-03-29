@@ -65,12 +65,11 @@ map rendering to showcase the different locations.
 - The Navigation Links - Aloows the user to easily navigate the different pages of the site
 
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Remove Buttons - A feature to add in the future to allow the user to remove a given set of items in the cart that they may decide they don't want
+- Increment arrows - Arrows that allow the user to increase and decrease the number of items in the cart with out having to go back to the supplies page
+- Clickable Map Point - These points, when clicked should show the area name to the user
 
 ## Technologies Used
 
