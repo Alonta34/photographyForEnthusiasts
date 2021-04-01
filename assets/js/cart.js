@@ -157,7 +157,6 @@ function displayCart(){
                 <span class="prices">$${item.price}.00</span> 
                 <span class= "numbers">${item.incart}</span> 
                 <span class= "item-total">$${item.incart * item.price}.00</span>
-
             </div>
             
         
@@ -173,6 +172,7 @@ function displayCart(){
                     $${cartCost}.00
                 </h6>
                 <button onclick= "checkOut()" type="button" class="btn btn-secondary">Check Out</button>
+
             </div>
         `
     }
