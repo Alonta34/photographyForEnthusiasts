@@ -146,14 +146,14 @@ same across all devices.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The website is deployed on github pages : (https://alonta34.github.io/photographyForEnthusiasts/)
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+I was able to to do this by going to settings, then scrolling down to get to github pages and changing the none tab in the source section to master and saving.
+This allowed access for me to host the site on Github Pages and allowing the site to run without the workspace being open.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+In order to access the site through github pages you click on the setting tab at the top right and scroll down to Github Pages
+and there should be a link to click on. 
+
 
 ## Validation
 - Files were validated by directly inputing them into the validator using (https://www.w3.org/)
